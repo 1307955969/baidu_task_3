@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    background-color: #aaaaaa;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid;
+    overflow: auto;
+    min-width: 600px;
+}
+
+.team {
+    padding: 20px;
+    width: 160px;
+    background-color: #ffffff;
+    border: 1px solid;
+    font-size: 16px;
+    float: left;
+}
+.team span{
+    position:relative;
+    left:20px;
+}
+.team_logo {
+    float: left;
+    border: 1px solid;
+}
+.person{
+    padding:20px;
+    width: 80px;
+    border:1px solid;
+    float:right;
+}
+.aboutTeam{
+    margin-left:220px;
+    margin-right:140px;
+    border:1px solid;
+}
+.img1{
+    margin-top:5px;
+}
+
